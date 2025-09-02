@@ -8,6 +8,15 @@
 
 Green Card Holder | Based in Washington DC | PTSD Crisis Tech Founder
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 ## Disclaimer
 
 This is a personal account intended for use in work-related needs on personal projects. If you would like to participate in one of my projects, please contact me through [my website](https://zheliabovskii.info).
@@ -31,21 +40,33 @@ This is a personal account intended for use in work-related needs on personal pr
 ### Technical Skills
 
 #### Backend Development
-- Python, Go, FastAPI, Flask, Pydantic
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=flat&logo=pydantic&logoColor=white)
+
 - RESTful APIs, API Integration
 
 #### DevOps & Cloud
-- Docker, Kubernetes
-- AWS (EKS, EC2, S3, RDS), GCP
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 - Linux/Bash, Git, CI/CD Pipelines
-- GitHub Actions, Terraform, ArgoCD, Helm
-- Prometheus, Grafana
+- ArgoCD, Helm, Prometheus, Grafana
 - Secrets Management, Monitoring & Alerting
 - Infrastructure as Code, Deployment Automation
 - System Administration
 
 #### DevSecOps
-- SAST, SCA, IaC Security
+![Security](https://img.shields.io/badge/Security-FF6B6B?style=flat&logo=security&logoColor=white)
+![SAST](https://img.shields.io/badge/SAST-4CAF50?style=flat&logo=security&logoColor=white)
+![SCA](https://img.shields.io/badge/SCA-2196F3?style=flat&logo=security&logoColor=white)
+![IaC Security](https://img.shields.io/badge/IaC_Security-FF9800?style=flat&logo=security&logoColor=white)
+
 - Aikido, Semgrep, DAST
 - Jamf, MDM, IAM
 - GuardDuty, CloudTrail, SCC, KMS, AWS WAF
